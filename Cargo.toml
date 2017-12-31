@@ -5,3 +5,4 @@ authors = ["YUJI takahashi <jit.y.31@gmail.com>"]
 
 [dependencies]
 serde_json = "1.0.0"
+difference = "1.0"
