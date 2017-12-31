@@ -1,12 +1,11 @@
 extern crate serde_json;
 use std::fs::File;
 
-struct JSONFormatter {
+struct JSONPrettier {
     file: File,
 }
 
-impl JSONFormatter {
+impl JSONPrettier {
     pub fn to_pretty() {
-
     }
 }

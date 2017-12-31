@@ -1,5 +1,4 @@
-use std::fs::File;
-
-struct Diff {
-    file: File,
+pub struct Diff {
+    left: String,
+    right: String,
 }
