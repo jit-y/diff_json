@@ -1,1 +1,2 @@
-pub mod diff_json;
+pub mod diff;
+pub mod prettier;
